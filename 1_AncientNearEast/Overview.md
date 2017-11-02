@@ -42,7 +42,7 @@
 
 
 #### Ancient Hebrews
-* **1000BC** Return to the land of isreal, prior to that, they are living within Egyptian's territory.
+* **1000BC** Return to the land of Isreal, prior to that, they are living within Egyptian's territory.
 
 #### Phoenician
 
