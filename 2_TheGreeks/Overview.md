@@ -1,18 +1,4 @@
-
-# **Overview**
-
-
-#### Homer
-
-* Circa 740 BCE
-* Legendary Ionian Green Poet
+Test Prep
 
 
-#### Mycenaean
-
-*
-*
-
-#### Ionian Greek
-* Starting 1200 BCE
-* Adopt ship design and construction from The Venetian, and start
+**Polis** :  polis, the Greek citystate, an independent community of citizens inhabiting a city and the countryside around it. the Greek citystate, an independent community of citizens inhabiting a city and the countryside around it.
