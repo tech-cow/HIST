@@ -25,8 +25,20 @@
 * **radical democracy**
 * **ostracism**
 * **hetaira**
-* **sophists**
+
+* **Sophists**
+  * In Athens they were often metics who came from Asia Minor
+  * Little or no influence in Sparta, which spurned outsiders who talked a lot
+  * They appear frequently in the writings of Plato as the **intellectual rivals of Socrates**; Plato contrasts the shallowness of their rhetorical skills to Socrates’ quest for the truth
+  * A group of teachers who specialized in rhetoric and the art of persuasion; they frequently traveled from town to town charging for their services; eventually the term became derogatory as they gained a reputation as **“word twisters”**
+  * Their success in Athens underscores the increasing importance of public speaking in Athens
+    * Litigiousness
+    * Politics
+  * Frequently drew distinctions between nature and convention
+
 * **hoplite**
+  * ![alt text](https://en.wikipedia.org/wiki/Hoplite#/media/File:Two_hoplites.jpg "Logo Title Text 1")
+
 * **Herodotus**
   * Originally from Asia minor, he traveled broadly throughout the eastern Mediterranean
   * Our best source for the Persian War
