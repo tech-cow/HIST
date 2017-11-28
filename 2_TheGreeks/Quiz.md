@@ -1,6 +1,18 @@
 <!---Header--->
 <h4 align="center">Quiz 2 </h4>
 
+
+#### TimeLine
+* Dark Age: 1200-800 BCE
+* Archaic Age: 800-500
+* Classical Age: 500-350
+  * Lysistrata, 411 BCE
+  * Defeat of Athens, 404 BCE
+* Hellenistic Age: 350-200
+  * Alexander the Great & the pre-Roman Mediterranean
+  * Dissemination of Greek cultural achievements
+
+
 #### Vocab.
 
 
@@ -36,8 +48,11 @@
     * Politics
   * Frequently drew distinctions between nature and convention
 
+
 * **hoplite**
-  * ![alt text](https://en.wikipedia.org/wiki/Hoplite#/media/File:Two_hoplites.jpg "Logo Title Text 1")
+  * ![](https://upload.wikimedia.org/wikipedia/commons/9/9a/Two_hoplites.jpg)
+  * Political power was shared by hoplite warriors, “the Similars,” who were led by a king
+
 
 * **Herodotus**
   * Originally from Asia minor, he traveled broadly throughout the eastern Mediterranean
@@ -63,8 +78,25 @@
 * **metics**: a foreign resident of Athens, one who did not have citizen rights in their Greek city-state (polis) of residence
 
 * **Pericles**
+  * the Athenian general/statesman who championed the building program
+  * Numerous temples built in the Parthenon complex as well as around Athens
+  * Built **The Parthenon**, Acropolis, Athens, 448-432 BCE
+
+
 * **Battle of Chaeronea**
 * **Hellenistic**
 * **Mystery cults**
-* **Epicureanism**
-* **Stoicism**
+* **Epicureanism** (享乐主义)
+  * emphasis on individual quest for happiness;
+  * not hedonism;
+  * challenged Greek emphasis on citizenship;
+  * gods have little or no influence on human affairs
+
+
+
+* **Stoicism** （恬淡寡欲）
+  * public duty, destiny, position in the divine order;
+  * between 200 BCE and 200 CE Stoicism becomes very popular among the political and administrative elite of Rome;
+  * it promoted equal citizenship for women;
+  * questioned the notion of free will;
+  * Stoics admired those who could control their passions
