@@ -15,26 +15,6 @@
 
 
 
-
-#### Vocab.
-
-
-
-
-
-Pax Romana
-Pontifex Maximus
-Julio-Claudians
-Flavians
-Paul of Tarsus
-tetrarchy
-Edict of Milan
-Nicene Creed
-Benedictine Rule
-
-
-
-
 ##### Period of Kingship: 750-509 BCE
 * **价值观**：
   * **Mos Maiorum** (敬重祖先):  Reverence for ancestors
@@ -102,3 +82,30 @@ Benedictine Rule
   * **Caesar**： 凯撒，成为第二个靠武力征服罗马的人，然后强制性实行君主制。被Optimates干掉
 
 * End of the Republic and Emergence of Empire
+
+
+
+##### The Rome Empire
+
+* Augustus: Caesar被干掉后，重建罗马政府的人
+
+
+
+
+
+* Creating the Pax Romana 164
+  * From Republic to Principate (44–27 B.C.E.)
+  * Augustus’s “Restoration of the Republic,” 27 B.C.E.–14 C.E.
+  * Augustan Rome
+  * Imperial Education, Literature,
+and Art
+
+Pax Romana
+Pontifex Maximus
+Julio-Claudians
+Flavians
+Paul of Tarsus
+tetrarchy
+Edict of Milan
+Nicene Creed
+Benedictine Rule
