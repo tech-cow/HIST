@@ -17,24 +17,11 @@
 
 
 #### Vocab.
-* 古罗马的价值观：
-  * Mos Maiorum (敬重祖先):  Reverence for ancestors
-  * Fides（忠诚）：  Faithfulness
-  * Virtu ： strength, loyalty, courage
-* Twelve Tables（最早的法律）：
-  * 平民通过罢工，逼迫皇室起草的法律，为了保护平民的利益
-  * To pressure the patricians, the plebeians periodically refused military service. This tactic worked because Rome’s army depended on plebeian manpower; the patricians were too few to defend Rome by themselves. The patricians therefore agreed to written laws guaranteeing greater equality and social mobility. The earliest Roman law code, the Twelve Tables, was enacted between 451 and 449 B.C.E. in response to this tactic.
-* Patricians（皇室贵族）：a small group of the most aristocratic families
-* Plebeians(老百姓): the rest of the citizens
 
-* Punic Wars（打了三次，第二次最精彩）： Rome’s three wars with Carthage are called the Punic Wars
-* The Gracchus Brothers（Tiberius and Gaius Gracchus）： pushed for reforms to help the poor by giving them land.
-  * populares： supporters of the people
-  * optimates： supporters of “the best”
 
-* **Gaius Marius **: 草更出身的Consuls，深受平民爱戴
-  * 
-proletarians
+
+
+
 Pax Romana
 Pontifex Maximus
 Julio-Claudians
@@ -49,33 +36,37 @@ Benedictine Rule
 
 
 ##### Period of Kingship: 750-509 BCE
+* **价值观**：
+  * **Mos Maiorum** (敬重祖先):  Reverence for ancestors
+  * Fides（忠诚）：  Faithfulness
+  * Virtu ： strength, loyalty, courage
 
 * **Cultural Influences**
   * Latin（语言）: Spoken Language
   * Greek（文化）: a love-hate relationship with Greece, admiring its literature and art but despising its lack of military unity. They adopted many elements from Greek culture—from deities for their national cults to models for their poetry, prose, and architectural styles.
   * Etruscan（艺术，奢侈品）: Magnificently colored wall paintings in tombs, portraying funeral banquets and games, reveal the splendor of Etruscan society. In addition to producing their own art, jewelry, and sculpture, the Etruscans also imported luxurious objects from Greece and the Near East. Most of the intact Greek vases known today were found in Etruscan tombs.
 
-* Myth'of'Romulus and'Remus:'Source'for'Early'Rome
 
-* Concerns'with Kingship & Tyranny
-  * Rape'of'Sabines'(c.'750'BCE)
-  * Rape'of'Lucretia'(c.'509'BCE)
-  * Rape'of'Virginia'(c.'450'BCE)
+* **暴君行为，共和党诞生的缘由**
+  * **Rape of Sabines** (c.'750'BCE): 为了保证身孕，罗马男的抢掠Sabines的女人，最终Sabines被罗马收编
+  * **Rape of Lucretia** (c.'509'BCE)： 皇上的儿子上了Lucretia，Lucretia自杀，引发了民众对Dictatorship的痛恨
+  * Rape of Virginia(c.'450'BCE)
 
-* Republican Political Culture: Separation of Powers
+* **Republican**（共和党诞生）
   * The kings created Rome’s most famous and enduring government body: **the Senate**
-  * Consuls （掌管军权）：The highest officials, two elected each year, were called consuls. Their most important duty was commanding the army.
-  * Assemblies
+  * **Consuls** （掌管军权）：The highest officials, two elected each year, were called consuls. Their most important duty was commanding the army.
+  * Assemblies： 选会
 
 
 
 ##### Early Republic: 500-287 BCE
 
 * Political Culture of the Early Republic
-  * Opposition to consolidated power
-  * Emphasis on Public Duty
-  * Rule of Law: Twelve Tables
-  * Representation: Clientele
+  * **Twelve Tables**（最早的法律）：
+    * **Patricians** （贵族）
+    * **Plebeians**(老百姓): the rest of the citizens
+    * Plebeians通过罢工，逼迫Patricians起草的法律，为了保护平民的利益  
+
 * Conquest of Italy
 * Features of the Army
   * Discipline
@@ -83,23 +74,31 @@ Benedictine Rule
   * Communication
   * Methods & Training
   * Infrastructure & Logistics
-* Summary of the early Republic
-  * Terms: Twelve Tables, patrician, plebeian, clientele
 
 
 ##### Expansion of the Military, Decline of the Republic
-
-* Recap Early Republic & Conquest of Italy
-* Discuss Tacitus & his perspective
-* Punic Wars: 200s and 100s
-* Impact of Punic Wars
+* **Punic Wars**（打了三次，第二次最精彩）： Rome’s three wars with Carthage are called the Punic Wars
   * a. Increased wealth, but impoverishment of middle class
-  * b.Rise of Latifundia
+  * b. Rise of Latifundia
   * c. Political Instability and Violence
-  * d.Increased Influence of Eastern Mystery Religions
-* Rise of Client Armies
-  * a. The erosion of values: loyalty to generals instead of the res publica
-* Civil Wars: Optimates vs Populares
+  * d. Increased Influence of Eastern Mystery Religions
+* **The Gracchus Brothers**： 帮助贫民，为他们争取田地：
+  * Tiberius and Gaius Gracchus
+  * Populares： supporters of the people
+  * Optimates： supporters of “the best”
+  * Latifundia （富人的大农场）： The rich worked their huge farms, called latifundia
+
+
+* **Gaius Marius **: 草更出身的Consuls，深受平民爱戴
+  * Proletarians （买不起地和武器的穷蛋士兵）： Marius opened the ranks to proletarians, men who had no property and could not afford weapons on their own. For them, serving in the army meant an opportunity to better their lot by acquiring booty and a grant of land.
+  * Rise of **Client Armies**(卖命给领袖的穷蛋士兵): The erosion of values: loyalty to generals instead of the res publica
+
+* **Civil Wars 1**: Optimates vs Populares
+  * **Sulla**: 当有了卖力为主的雇佣兵以后，此人强大了自己得部队，用来莫权篡位。是历史上第一个用武力征服罗马的人，之后干掉Marius的所有同党，限制了保民官的权限，大幅度增加了Senate的权限
+  * **The Social War**： 名字来源于(Latin word for “ally” is socius)： 因为罗马不给周边邻国公民权，意大利人和罗马人干了一架，死了30万人，但罗马从此实行颁布公民权。 **Sulla在这次战役后，获得Consul职位**
+
+* **Civil Wars 2**: Optimates vs Populares
+  * **Pompey**: Sulla手下，后来变得很牛，成为凯撒的最大敌人，和凯撒女儿结婚，女儿难产死亡，最终和凯撒干起来
+  * **Caesar**： 凯撒，成为第二个靠武力征服罗马的人，然后强制性实行君主制。被Optimates干掉
+
 * End of the Republic and Emergence of Empire
-* Summary
-  * Terms: Punic Wars, latifundia, Populares, Optimates
