@@ -87,24 +87,31 @@
 
 ##### The Rome Empire
 
-* Augustus: Caesar被干掉后，重建罗马政府的人
+* **Augustus**: Caesar被干掉后，重建罗马政府的人
+  * 创建了 **principate** 元首制度，虽说是复兴Roman Rebulic，但纯粹扯淡
+  * **Pax Romana**： 用Augustus创建的制度以后，平安的200年
+    * 虽然农业发展了，但是经济却不景气，以前罗马的武装部队成为了保安部队
+
+* **Julio-Claudian Dynasty**  （14–68 C.E.）：Augustus创建的世袭统治，一共有5个人在这个里面
+  * Augustus
+  * Tiberius
+  * Caligula
+  * Claudius
+  * Nero
+* **The Flavian Dynasty** （69–96 C.E.）
+  * Vespasian (69–79)
+  * Titus (79–81)
+  * Domitian (81–96)
 
 
+##### Transformation of the Roman Empire
+* Reorganizing the Empire, (284–395)
+  * **Tetrarchy** (“rule by four”). Each ruler controlled one of the four districts.
+
+* **Paul of Tarsus**: 耶稣被干掉后，他的Follower将他传播到了犹太人之外的Roman世界
 
 
-
-* Creating the Pax Romana 164
-  * From Republic to Principate (44–27 B.C.E.)
-  * Augustus’s “Restoration of the Republic,” 27 B.C.E.–14 C.E.
-  * Augustan Rome
-  * Imperial Education, Literature,
-and Art
-
-Pax Romana
 Pontifex Maximus
-Julio-Claudians
-Flavians
-Paul of Tarsus
 tetrarchy
 Edict of Milan
 Nicene Creed
