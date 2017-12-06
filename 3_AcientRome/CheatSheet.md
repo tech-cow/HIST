@@ -106,7 +106,12 @@
 
 ##### Transformation of the Roman Empire
 * Reorganizing the Empire, (284–395)
-  * **Tetrarchy** (“rule by four”). Each ruler controlled one of the four districts.
+  * Diocletian 创建了 **Tetrarchy** (“rule by four”). Each ruler controlled one of the four districts.
+* **Constantine**:
+    * **Edict of Milan**: 宗教自由 religious toleration in the Roman Empire
+    * **Pontifex Maximus** ：大祭司，Constantine为了表达对传统的尊敬，保留了的职位，但在基督教成为唯一宗教后，被关闭。391年
+    
+
 
 * **Paul of Tarsus**: 耶稣被干掉后，他的Follower将他传播到了犹太人之外的Roman世界
 
