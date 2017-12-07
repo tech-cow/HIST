@@ -110,14 +110,10 @@
 * **Constantine**:
     * **Edict of Milan**: 宗教自由 religious toleration in the Roman Empire
     * **Pontifex Maximus** ：大祭司，Constantine为了表达对传统的尊敬，保留了的职位，但在基督教成为唯一宗教后，被关闭。391年
-    
+    * **Nicene Creed**: 父子合体，为了干掉Arianism这个宗教。that the Father and the Son were “of one sub-stance” (homoousion) and co-eternal.
 
 
 * **Paul of Tarsus**: 耶稣被干掉后，他的Follower将他传播到了犹太人之外的Roman世界
 
 
-Pontifex Maximus
-tetrarchy
-Edict of Milan
-Nicene Creed
-Benedictine Rule
+* **Benedictine Rule**：给Monk的一种修炼秘籍：让Monk能够融入社会，不是特别的Strict
