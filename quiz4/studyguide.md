@@ -1,6 +1,7 @@
 #### Vocab
 
-* **Nicene Creed**
+* **Nicene Creed**: 因为圣经的不统一，产生了很多分歧，Arial尤其抨击了耶稣不一体轮，这个Nicene Creed统一了耶稣一体轮：  declared in the Nicene Creed that the Father and the Son were “of one sub- stance” (homoousion) and co-eternal.
+
 * **The Laws of Æthelberht**：
 
 
@@ -175,7 +176,16 @@ Terms: Pillars of Faith, House of Wisdom, tonsure, Synod of Whitby
 * **Geat** : Beowulf自己的领土，在目前瑞典(Sweden)的南方
 * **Dane** ： Hrothgar的领土
 * **Scop** : 吟游诗人，靠着传颂的歌章，将历史传承下去
-* Ordeal
-* Feud
-* Wiglaf
+* **Ordeal** : 痛苦的经验，意指Beowulf和Grendel的格斗关系
+* **Feud**: 世仇， Hygelac's son dies in a feud, 然后Beowulf当了国王
+* **Wiglaf** ： 在和神龙战斗中，唯一帮助Beowulf的人
 * Finnsburg episode
+
+
+
+
+
+
+
+
+By the time the story of Beowulf was composed by an unknown Anglo-Saxon poet around 700 a.d., much of its material had been in circulation in oral narrative for many years. The Anglo-Saxon and Scandinavian peoples had invaded the island of Britain and settled there several hundred years earlier, bringing with them several closely related Germanic languages that would evolve into Old English. Elements of the Beowulf story—including its setting and characters—date back to the period before the migration. The action of the poem takes place around 500 a.d. Many of the characters in the poem—the Swedish and Danish royal family members, for example—correspond to actual historical figures. Originally pagan warriors, the Anglo-Saxon and Scandinavian invaders experienced a large-scale conversion to Christianity at the end of the sixth century. Though still an old pagan story, Beowulf thus came to be told by a Christian poet. The Beowulf poet is often at pains to attribute Christian thoughts and motives to his characters, who frequently behave in distinctly un-Christian ways. The Beowulf that we read today is therefore probably quite unlike the Beowulf with which the first Anglo-Saxon audiences were familiar. The element of religious tension is quite common in Christian Anglo-Saxon writings (The Dream of the Rood, for example), but the combination of a pagan story with a Christian narrator is fairly unusual. The plot of the poem concerns Scandinavian culture, but much of the poem’s narrative intervention reveals that the poet’s culture was somewhat different from that of his ancestors, and that of his characters as well.
