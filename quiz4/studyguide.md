@@ -1,6 +1,11 @@
 #### Vocab
 
 * **Nicene Creed**: 因为圣经的不统一，产生了很多分歧，Arial尤其抨击了耶稣不一体轮，这个Nicene Creed统一了耶稣一体轮：  declared in the Nicene Creed that the Father and the Son were “of one sub- stance” (homoousion) and co-eternal.
+* **Vulgate**: 成为了拉丁的正统圣经
+* **Edward Gibbon** （1781–1784）写了本牛逼的书 “History of the Decline and Fall of the Roman Empire”
+* **Historiography** 史学史： 指的是关于对历史进程的看法
+*
+
 
 * **The Laws of Æthelberht**：
 
