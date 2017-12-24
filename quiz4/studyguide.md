@@ -4,8 +4,9 @@
 * **Vulgate**: 成为了拉丁的正统圣经
 * **Edward Gibbon** （1781–1784）写了本牛逼的书 “History of the Decline and Fall of the Roman Empire”
 * **Historiography** 史学史： 指的是关于对历史进程的看法
-*
-
+* **Sutton Hoo** ：Anglo-Saxons 的墓葬
+* **Writs** Nomad干掉英国人后，沿用了当地的culture，比如说Writs: formal written instructions — to communicate orders
+* **Synod of Whitby** 表彰大会：本来Irish和Roman因为Ester day的计算方式大干起来，Oswy决定用罗马的，然后通过这个表彰大会确定了关系
 
 * **The Laws of Æthelberht**：
 
