@@ -159,3 +159,23 @@ Terms: Council of Clermont, First Crusade, Fourth Crusade
 
 
 Terms: Pillars of Faith, House of Wisdom, tonsure, Synod of Whitby
+
+
+
+
+
+
+##### Know the following terms from Beowulf:
+
+* **Grendel**: 被Beowulf干掉的第一个怪兽
+* **Unferth** ： 数落Beowulf的人，杀了自己的哥哥，被Beowulf呛说：你很牛，但你干不掉Grendel
+* **Comitatus**: 随从关系，比如Beowulf和Hrothgar的关系，以及Beowulf和他的随从的关系
+* **Heorot**: 鹿厅，Hrothgar豪华的厅
+* **Hrothgar**： 老皇帝，对待子民特别好，在Beowulf杀了Grendel他妈以后，警告Beowulf不要太自负
+* **Geat** : Beowulf自己的领土，在目前瑞典(Sweden)的南方
+* **Dane** ： Hrothgar的领土
+* **Scop** : 吟游诗人，靠着传颂的歌章，将历史传承下去
+* Ordeal
+* Feud
+* Wiglaf
+* Finnsburg episode
